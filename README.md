@@ -11,6 +11,13 @@ Port-Stat is a lightweight, cross-platform, real-time port monitoring tool desig
 * 🔁 Unbuffered, live output (Windows/Linux/macOS)
 * 🪶 Requires only one dependency (`psutil`)
 
+
+## System-Architecture
+
+<img width="493" height="765" alt="architectural-diagram" src="https://github.com/user-attachments/assets/1dbdcad6-bbaa-43e3-933b-018fc55c5a09" />
+
+
+
 ## 📦 Installation
 
 ```bash
