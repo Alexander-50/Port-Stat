@@ -60,15 +60,8 @@ python monitor.py --json-log logs/events.json
 
 ## 📌 Example Output
 
-```
-[2025-11-20 18:22:12.144921] Port Monitor started...
-Baseline ports: [22, 3001, 3306, 5000, 5357, 6379, 8000, 49152, 49153]
+<img width="1343" height="579" alt="outputcli-port-stat" src="https://github.com/user-attachments/assets/0463b9e0-bb53-4daf-9633-9e51112f3c71" />
 
-[OK] No new ports...
-
-2025-11-20 18:22:25.882104 [ALERT] New port opened: 8080 (Process: python.exe, PID: 9214)
-2025-11-20 18:22:33.441552 [ALERT] New port opened: 9999 (Process: python.exe, PID: 10482)
-```
 
 ## 📁 Project Structure
 
